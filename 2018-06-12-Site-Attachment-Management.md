@@ -16,5 +16,5 @@ The link for the Attachment Library will be located inside the Admin section of 
 
 ## Attachment Library Interface
 
-![image alt text]({{ site.url }}/public/Q7utk09d5d5cGYc3lEsIQ_img_0.png)
+![image alt text](/public/Q7utk09d5d5cGYc3lEsIQ_img_0.png)
 
