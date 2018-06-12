@@ -108,3 +108,19 @@ Attachments will still be uploaded from different locations on the site. These i
 
 ![image alt text]({{ site.url }}/public/Q7utk09d5d5cGYc3lEsIQ_img_8.png)
 
+### Remove a resource from the library
+
+1. Given that I am on the team library
+
+2. When I click on the gear icon
+
+3. And click "Delete"
+
+4. Then the system responds, "Delete Team Content/Are you sure you want to delete this content from the team?"
+
+5. When I click "Ok"
+
+6. Then the image is removed from the team library
+
+7. And the image is removed from the Attachment Library
+
